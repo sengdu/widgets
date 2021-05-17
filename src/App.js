@@ -4,14 +4,14 @@ import Accordion from './components/Accordion';
 const items = [
 	{
 		title: 'what is react',
-		content: 'react is fort-end programming language '
+		content: 'react is front-end programming language '
 	},
 	{
 		title: 'why use react?',
-		content: 'react is a among favourit engineer'
+		content: 'react is a among favourit front end web engineer'
 	},{
-		title: 'what is ur name',
-		content: 'my name sengdu'
+		title: 'what is ur name bha adfasdfasfafdafasf',
+		content: 'my name sengdu af adfhjhdfkahdfla'
 	}
 ];
 export default () => {
